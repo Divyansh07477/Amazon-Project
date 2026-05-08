@@ -1,2 +1,2 @@
-const someValue =require("./math");
-console.log(someValue);
+const info =require("./friuts");
+console.log(info [2].name);
